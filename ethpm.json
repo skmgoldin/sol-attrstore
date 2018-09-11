@@ -1,6 +1,6 @@
 {
   "package_name": "attrstore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Per-user hash-indexed attribute store",
   "authors": [
     "Yorke Rhodes",
