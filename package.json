@@ -16,8 +16,8 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "truffle": "4.0.1",
-    "truffle-hdwallet-provider": "0.0.3"
+    "truffle": "4.1.14",
+    "truffle-hdwallet-provider": "0.0.6"
   },
   "devDependencies": {
     "eslint": "4.11.0",
